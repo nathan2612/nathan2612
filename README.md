@@ -78,16 +78,13 @@ Développement d'une application complète de gestion et de visualisation de vol
 
 **Technologies :** Python, Flask, Flask-RESTX, SQLAlchemy, MySQL, JavaScript, HTML, CSS, Flutter, Dart, Provider, OpenStreetMap
 
-## Formation
+📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathan2612&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b26" alt="Stats GitHub de Yassine" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan2612&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Langages les plus utilisés" height="165" />
+</p>
 
-- **BUT Informatique**, IUT d'Orléans, parcours Réalisation d'applications · 2024–2027
-- **Baccalauréat général**, mention Assez Bien, spécialités NSI, Mathématiques et SES · 2024
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan2612&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=FF9E3B&currStreakLabel=7AA2F7" alt="GitHub Streak" />
+</p>
 
-## Centres d'intérêt
-
-Hardware et montage de configurations PC · Musculation et nutrition · Jeux vidéo · Football
-
-## Langues
-
-- Français : langue maternelle
-- Anglais : lire, écrire, parler · niveau B2 CECRL
