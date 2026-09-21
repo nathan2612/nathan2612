@@ -1,6 +1,8 @@
-# Bonjour, moi c'est Nathan Joubert 👋
+# Nathan Joubert
 
-## Étudiant en informatique | À la recherche d'une alternance
+## Étudiant en BUT Informatique | Développement backend et web
+
+À la recherche d'une alternance en développement informatique.
 
 Étudiant en **BUT Informatique** à l'IUT d'Orléans, parcours Réalisation d'applications, je m'intéresse au développement logiciel et web.
 
