@@ -53,6 +53,12 @@ Participation au développement et à la modernisation de l'application **Vigied
 
 **Technologies :** Python, Django, Spring Boot, Angular, HTMX, GraphQL, DSFR
 
+#### Contributions au projet Vigiedéchets
+
+- [PR #511 - Recherche avancée des bordereaux](https://github.com/MTES-MCT/trackdechets-vigiedechets/pull/511) : développement de la recherche de bordereaux via l'API Trackdéchets, refactorisation des modules `roadcontrol` et `bordereau`, séparation des modèles, amélioration de la page et ajout de tests.
+- [PR #476 - Ajout de plusieurs fichiers aux demandes d'assistance](https://github.com/MTES-MCT/trackdechets-vigiedechets/pull/476) : prise en charge de jusqu'à cinq fichiers par demande, avec sélection incrémentale, suppression individuelle et validation côté client des formats, tailles et limites.
+- [PR #464 - Exécution de ClickHouse en local](https://github.com/MTES-MCT/trackdechets-vigiedechets/pull/464) : mise en place de ClickHouse avec Docker, centralisation des connexions SQLAlchemy et ajout d'une configuration permettant de choisir entre un tunnel SSH et une instance locale.
+
 ## Projets
 
 ### [Oumami](https://github.com/nathan2612/Projet_FI_Groupe_17) · Site web
