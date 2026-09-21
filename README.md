@@ -1,8 +1,8 @@
 # Nathan Joubert
 
-## Étudiant en BUT Informatique | Développement backend et web
+## Étudiant en BUT Informatique, spécialisé en développement backend et web
 
-À la recherche d'une alternance en développement informatique.
+Étudiant en **BUT Informatique**, spécialisé dans le développement backend, les applications web et les bases de données. Je recherche une alternance pour mettre en pratique mes compétences sur des projets concrets.
 
 Étudiant en **BUT Informatique** à l'IUT d'Orléans, parcours Réalisation d'applications, je m'intéresse au développement logiciel et web.
 
@@ -11,6 +11,7 @@
 - 🌱 Actuellement intéressé par le développement backend, les applications web et les bases de données
 - 📍 Boigny-sur-Bionne, France
 - 📫 [Me contacter par e-mail](mailto:nathan.joubert45@gmail.com)
+- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/nathan-joubert-b12610389/)
 
 ## Compétences
 
@@ -31,14 +32,27 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Bases de données et méthodes
+### Bases de données
 
-`MySQL` · `MariaDB` · `PostgreSQL` · `PL/SQL` · `SQLAlchemy` · `JDBC` · `UML` · `Méthodes agiles`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Bibliothèques et méthodes
+
+`SQLAlchemy` · `JDBC` · `UML` · `Méthodes agiles`
+
+### Langues
+
+![Anglais](https://img.shields.io/badge/Anglais-B2%20CECRL-1F6FEB?style=for-the-badge)
 
 ## Expérience
 
