@@ -52,7 +52,7 @@ Participation au développement et à la modernisation de l'application **Vigied
 
 ## Projets
 
-### [Oumami](https://github.com/nathan2612) · Site web
+### [Oumami](https://github.com/nathan2612/Projet_FI_Groupe_17) · Site web
 
 Rework et développement d'un site web réalisé en équipe de quatre. Chef de projet et développeur de l'application.
 
