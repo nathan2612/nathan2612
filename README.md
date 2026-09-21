@@ -30,6 +30,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -58,11 +59,16 @@ Rework et développement d'un site web réalisé en équipe de quatre. Chef de p
 
 **Technologies :** Python, Flask, SQLAlchemy, MariaDB, GitHub
 
-### [Livre Express](https://github.com/nathan2612) · Application logicielle
+### [Projet SAE 4.01a - Gestion de vols](https://github.com/arthur-santenac/SAE_4.01a-D-veloppement-d-une-application-complexe) · Application complexe
 
-Développement d'une application logicielle réalisé en équipe de quatre. Chef de projet et développeur de l'application.
+Développement d'une application complète de gestion et de visualisation de vols commerciaux, d'aéroports et de terminaux. Le projet sépare un backend API REST de deux clients, web et mobile.
 
-**Technologies :** Java, JavaFX, JDBC, MariaDB, GitHub
+- API REST Flask avec SQLAlchemy et base de données MySQL ;
+- interface web SPA en HTML, CSS et JavaScript Vanilla ;
+- application mobile Flutter avec recherche, filtres, favoris et cartographie ;
+- architecture mobile MVVM avec Provider et Repository Pattern.
+
+**Technologies :** Python, Flask, Flask-RESTX, SQLAlchemy, MySQL, JavaScript, HTML, CSS, Flutter, Dart, Provider, OpenStreetMap
 
 ## Formation
 
